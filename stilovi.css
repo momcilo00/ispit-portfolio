@@ -1,0 +1,118 @@
+@import url("menu.css");
+
+			.body {
+				background-color: white;
+				overflow: hidden;
+			}
+
+			.navivigacija  {
+			  position: fixed;
+			  top: 0;
+			  left: 0;
+			  right: 0;
+			  height: 50px;
+			  background-color: #fff;
+			  z-index: 2;
+}
+
+			.main {
+              margin-top: 100px;
+}
+.element {
+  margin-bottom: 20px; /* adds a 20px bottom margin to the element */
+}
+
+
+            .foto {
+            	 padding-top: 65px;
+            }
+
+            .about-sve {
+            	padding-top: 40px;
+            	
+            }
+
+            .about-me {
+            	
+				  font-family: Arial, sans-serif;
+				  font-size: 3rem;
+				  font-weight: 700;
+				  line-height: 1.3;
+				  text-align: center;
+				  padding: 1rem 0;
+				  color: #1a1a1a;
+				  margin: auto;
+                  width: 90%;
+                
+            }
+
+            .soft{
+            	  font-family: Arial, sans-serif;
+				  font-size: 2.5rem;
+				  font-weight: 700;
+				  line-height: 1.;
+				  text-align: center;
+				  padding: 1rem 0;
+				  color: dimgray;
+				  margin: auto;
+                  width: 90%;
+            }
+
+
+			.h1 {
+				font-family: Arial, sans-serif;
+				font-size: 24px;
+				color: black;
+				margin: 0;
+				padding-bottom: 15px;
+			}
+
+			.gif {
+				height: 100vh;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+
+			.naslov {
+				  font-family: Arial, sans-serif;
+				  font-size: 4rem;
+				  font-weight: 900;
+				  text-align: center;
+				  padding: 2rem 0;
+				  color: #1a1a1a;
+				  margin: auto;
+                  width: 80%;
+			}
+
+			.meni {
+				font-family: Arial, sans-serif;
+				position: absolute;
+				top: 15px;
+				right: 15px;
+			}
+
+			.p {
+				font-family: Arial, sans-serif;
+				font-size: 24px;
+				color: black;
+				margin: 0;
+			}
+
+			.a {
+
+				color: black;
+				text-decoration: none;
+			}
+
+			.a:hover {
+				color: gray;
+			}
+
+			.logo-img{
+				height: 40px;
+				position: absolute; 
+				top:20; 
+				left:30; 
+			} 
+
